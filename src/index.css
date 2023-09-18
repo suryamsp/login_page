@@ -1,0 +1,168 @@
+body{
+  background-color: rgb(241, 66, 66);
+}
+.main_container{
+
+  width: 1000px;
+  height: 350px;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 150px;
+  border-radius: 20px 20px 0px 0px;
+}
+.main_container2{
+
+  width: 1000px;
+  height: 450px;
+  background-color: white;
+  margin-left: 150px;
+  border-radius: 0px 0px 20px 20px;
+}
+.main_container3{
+
+  width: 1000px;
+  height: 450px;
+  background-color: white;
+  margin-left: 150px;
+  border-radius: 0px 0px 20px 20px;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  margin-left: 450px;
+  margin-top: 50px;
+}
+h4{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 7px;
+}
+.content{
+display: flex;
+justify-content: center;
+
+}
+p{
+  margin: 2px;
+  font-size: 17px;
+
+}
+.btn{
+  background-color: rgb(104, 140, 200);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 170px;
+  padding: 0px;
+}
+img{
+  width: 40px;
+}
+.btn_container{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+}
+.form-control{
+  background-color: #d1d1d1;
+  border: none;
+  opacity: 30%;
+  width: 600px;
+  padding: 10px;
+}
+.form{
+
+  display: flex;
+  justify-content: center;
+}
+.lable{
+  margin-top: 20px;
+}
+.form-check{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+.login_btn{
+  background-color: rgb(228, 82, 82);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 9px;
+  width: 100px;
+  margin-left: 277px;
+}
+
+.policy{
+  margin: 30px auto ;
+  width: 600px;
+}
+.form-check-input{
+  margin-top: 13px;
+}
+
+.new_cus{
+  display: flex;
+  justify-content: center;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
+.singal_line{
+  display: flex;
+  width: 500px;
+  gap: 30px;
+}
+.form-controls{
+
+
+  opacity: 30%;
+  padding: 10px;
+  width: 450px;
+}
+.form-controlss{
+
+  opacity: 30%;
+  padding: 10px;
+  width: 930px;
+
+}
+.forms{
+  margin-left: 30px;
+}
+.singal_line2{
+  display: flex;
+  flex-direction: column;
+}
+.reset_con{
+  width: 1000px;
+  height: 500px;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 150px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+.reset_pass{
+  margin-left: 220px;
+
+}
+.reset_btn{
+  background-color: rgb(228, 82, 82);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 9px;
+  width: 210px;
+  margin-top: 20px;
+  margin-left: 609px;
+}
+a{
+  color: brown;
+  text-decoration: none;
+}
+input {
+  background-color: #d1d1d1;
+  border: none;
+}
