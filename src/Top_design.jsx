@@ -1,4 +1,7 @@
-
+import FacebookIcon from '@mui/icons-material/Facebook';
+import TwitterIcon from '@mui/icons-material/Twitter';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import GoogleIcon from '@mui/icons-material/Google';
 
 export function Top_design() {
   return (
@@ -16,16 +19,16 @@ export function Top_design() {
       </div>
       <div className='btn_container'>
 
-        <button type="button" className="btn btn-primary"><img className="btn_logo" src='img\t.png' />Primary</button>
+        <button type="button" className="btn btn-primary"><FacebookIcon />Primary</button>
 
 
-        <button type="button" className="btn btn-primary"><img className="btn_logo" src='img\t.png' />Primary</button>
+        <button type="button" className="btn btn-primary"><TwitterIcon />Primary</button>
 
 
-        <button type="button" className="btn btn-primary"><img className="btn_logo" src='img\t.png' />Primary</button>
+        <button type="button" className="btn btn-primary"><GitHubIcon /> Primary</button>
 
 
-        <button type="button" className="btn btn-primary"><img className="btn_logo" src='img\t.png' />Primary</button>
+        <button type="button" className="btn btn-primary"><GoogleIcon />Primary</button>
       </div>
       <hr></hr>
     </div>
