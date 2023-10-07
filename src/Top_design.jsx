@@ -6,7 +6,7 @@ import GoogleIcon from '@mui/icons-material/Google';
 export function Top_design() {
   return (
     <div className='main_container'>
-      <div><img className="logo" src="./img/download.png" /></div>
+      <div><img className="logo" src="https://avatars2.githubusercontent.com/u/58701512?s=280&v=4" /></div>
       <div><h4>Sign up on Start Bootstrap</h4></div>
       <div className='content'><p>Join our community of designers and developers and manage your</p></div>
       <div className='content'><p>purchases, favorite themes and snippets, comments, and more!</p></div>
